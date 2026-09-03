@@ -1,4 +1,5 @@
 {
+  "username": "Braga1x",
   "widgets": [
     {
       "widgetId": "header",
@@ -11658,7 +11659,19 @@
         "showGithub": true,
         "showRepos": false,
         "showLanguages": false,
-        "showTitle": false
+        "showTitle": false,
+        "showCommits": false,
+        "showUptime": true,
+        "showEmail": true,
+        "showOrgs": false,
+        "showStatsSection": false,
+        "showJoined": true,
+        "showTimezone": false,
+        "showAchievements": false,
+        "showHighlights": false,
+        "showPronouns": false,
+        "showStatus": false,
+        "showFollowing": false
       },
       "locked": false,
       "visible": true,
@@ -11677,5 +11690,6 @@
     "templateStyle": "native",
     "transparentBackground": false
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
