@@ -1,5 +1,4 @@
 {
-  "username": "Braga1x",
   "widgets": [
     {
       "widgetId": "header",
@@ -11670,6 +11669,5 @@
     "templateStyle": "native",
     "transparentBackground": false
   },
-  "templateId": "terminal",
-  "profileSlug": "default"
+  "templateId": "terminal"
 }
