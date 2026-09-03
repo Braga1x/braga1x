@@ -1,4 +1,5 @@
 {
+  "username": "Braga1x",
   "widgets": [
     {
       "widgetId": "header",
@@ -11525,29 +11526,6 @@
       "instanceId": "widget_1788366694772_1"
     },
     {
-      "widgetId": "terminal-info",
-      "name": "Terminal-info Widget",
-      "position": {
-        "x": 296,
-        "y": 90
-      },
-      "size": {
-        "width": 504,
-        "height": 248
-      },
-      "config": {
-        "showLanguages": false,
-        "showCommits": true,
-        "showStars": false,
-        "showFollowers": false,
-        "showGists": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 3,
-      "instanceId": "widget_1788366694772_2"
-    },
-    {
       "instanceId": "widget_1788366925150",
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
@@ -11651,10 +11629,40 @@
         "width": 800,
         "height": 250
       },
-      "config": {},
+      "config": {
+        "showTitle": true,
+        "hideBorder": false,
+        "theme": "dark",
+        "branch": "main",
+        "lockAspectRatio": false
+      },
       "locked": false,
       "visible": true,
       "zIndex": 9
+    },
+    {
+      "instanceId": "widget_1788402833794",
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 296,
+        "y": 90
+      },
+      "size": {
+        "width": 564,
+        "height": 280
+      },
+      "config": {
+        "showFollowers": false,
+        "showStars": false,
+        "showWebsite": true,
+        "showGithub": true,
+        "showRepos": false,
+        "showLanguages": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
     }
   ],
   "globalStyles": {
@@ -11669,5 +11677,6 @@
     "templateStyle": "native",
     "transparentBackground": false
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
