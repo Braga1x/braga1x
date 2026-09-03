@@ -1,4 +1,5 @@
 {
+  "username": "Braga1x",
   "widgets": [
     {
       "widgetId": "header",
@@ -11548,23 +11549,6 @@
       "instanceId": "widget_1788366694772_2"
     },
     {
-      "instanceId": "widget_1788366852263",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
-      "position": {
-        "x": 0,
-        "y": 624
-      },
-      "size": {
-        "width": 800,
-        "height": 250
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
-    },
-    {
       "instanceId": "widget_1788366925150",
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
@@ -11655,6 +11639,23 @@
       "locked": false,
       "visible": true,
       "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1788401278717",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 624
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
     }
   ],
   "globalStyles": {
@@ -11669,5 +11670,6 @@
     "templateStyle": "native",
     "transparentBackground": false
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
