@@ -32,17 +32,6 @@ Estudante de Engenharia de software focado em **Engenharia de Dados**, apaixonad
 
 </div>
 
-### Linguagens
-
-- Python
-- SQL
-
-### Bancos de dados
-
-- MySQL
-- PostgreSQL
-- SQLite
-
 ### Engenharia e processamento de dados
 
 - Pandas
@@ -51,14 +40,6 @@ Estudante de Engenharia de software focado em **Engenharia de Dados**, apaixonad
 - ETL e ELT
 - Modelagem de dados
 - Integração e transformação de dados
-
-### Ferramentas
-
-- Docker
-- Linux
-- Git
-- GitHub
-- Visual Studio Code
 
 ## O que estou estudando
 
